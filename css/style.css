@@ -572,6 +572,7 @@
     color: #BC8851;
     font-style: italic;
 }
+
 /* Section 2 */
 
 .section2-main-historia {
@@ -587,6 +588,11 @@
 
 .margen-carrousel {
     margin: 62px 5px;
+}
+
+.p1::selection{
+    background-color: #BC8851;
+    color: #68645C;
 }
 
 /* Fin / Main / Historia */

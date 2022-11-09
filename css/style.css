@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*Reset Valores*/
 @import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Trispace:wght@200&display=swap");
@@ -10,7 +11,7 @@
 }
 
 .fondo-index {
-  background-image: url("../../images/fondoproyecto.jpg");
+  background-image: url("../../images/20años.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
